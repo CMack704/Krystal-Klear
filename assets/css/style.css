@@ -1,0 +1,13 @@
+.jumbotron {
+    text-align: center;
+    background-color: rgb(3, 131, 182);
+    color: rgb(10, 194, 250);
+}
+#logo {
+    height: 300px;
+    width: 300px;
+}
+ul {
+    font-weight: bold;
+    margin-top: 20px;
+}
